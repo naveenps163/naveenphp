@@ -87,7 +87,7 @@ if(isset($_POST["email"]) && isset($_POST["password"])){
                     exit;
 
                 }else{
-                    echo "<span style='color:red;'>Please register before login..Naveen Kuamr PS ..hrllo naveen kumar.....reddu</span>";
+                    echo "<span style='color:red;'>Please register before login../span>";
                     exit();
                 }
     
